@@ -3,4 +3,3 @@
 # Arquivo da aula de Git e Github.
 
 # - Entendendo o comando 'git status'
-f
